@@ -10,3 +10,6 @@ Repositório com objetivo de realizar uma prática básica da ferramenta Git.
 1. Merge simples
 1. Conflito
 
+## Alunos
+Andreia B Tiveron
+Artur M S Silva
