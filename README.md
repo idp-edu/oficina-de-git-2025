@@ -11,4 +11,4 @@ Repositório com objetivo de realizar uma prática básica da ferramenta Git.
 1. Conflito
 
 ## Participantes
-
+Artur M S Silva
