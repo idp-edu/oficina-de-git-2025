@@ -12,3 +12,4 @@ Repositório com objetivo de realizar uma prática básica da ferramenta Git.
 
 ## Participantes
 Artur M S Silva
+Andreia B. Tiveron
