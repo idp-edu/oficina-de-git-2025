@@ -7,4 +7,5 @@ Repositório com objetivo de realizar uma prática básica da ferramenta Git.
 1. Realizar um commit e verificar o histórico
 1. Interação com a área de preparo
 1. Alternando fluxos com branching
+1. Merge simples
 
